@@ -535,6 +535,10 @@ text-decoration: none;
 }
 
 .shadow:hover{
-  filter: brightness(75%);
+  filter: brightness(80%);
   cursor: pointer;;
+}
+
+.glow:hover{
+  filter: brightness(120%);
 }
